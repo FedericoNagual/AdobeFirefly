@@ -1,3 +1,8 @@
 
 Lemon:
 "A lemon wearing a headphone enjoying the office at the city on buenos aires","Graphic","cyberpunk"
+
+Type Font:
+chip fluor, wire
+ice cream fluor
+lemon, lima, yellow, green, greenhouse
